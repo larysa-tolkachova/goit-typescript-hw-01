@@ -6,6 +6,7 @@ const callback = (a: number): number => {
   return 100 + a;
 };
 
+//================================================
 console.log(age);
 console.log(username);
 console.log(toggle);

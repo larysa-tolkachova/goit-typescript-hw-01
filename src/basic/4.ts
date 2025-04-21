@@ -2,8 +2,7 @@ function showMessage(message: string): void {
   console.log(message);
 }
 
-showMessage("Hello"); //+++
-// console.log(showMessage(2)); //---
+showMessage("Hello");
 
 //=================
 function calc(num1: number, num2: number): number {

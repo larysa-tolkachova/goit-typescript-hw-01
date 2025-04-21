@@ -24,5 +24,6 @@ const poly: User = {
   email: "john@example.com",
 };
 
+//====================================
 console.log(mango);
 console.log(poly);
